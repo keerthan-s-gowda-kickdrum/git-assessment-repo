@@ -1,2 +1,1 @@
-# git-assessment-repo
-assessment-1
+this is my 1st git assessment.
